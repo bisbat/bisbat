@@ -8,7 +8,7 @@ Hi! I'm Baitong, I am a senior student at the School of Information Technology (
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [Myportfilio](http://drive.google.com/file/d/1kkiehmeQgPfix5Y1tXaAC2jcnagyqmIw/view?usp=sharing)
-* ✉️  You can contact me at [G.baitong2546@gmail.com](mailto:G.baitong2546@gmail.com)
+* ✉️  You can contact me at [G.baitong2546@gmail.com](mailto:G.baitong.saek@gmail.com)
 
 ### Skills
 
