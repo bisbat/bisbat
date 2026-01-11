@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-Hi! I'm Baitong, a junior student at the School of Information Technology (SIT), KMUTT. I've been involved in several projects and love learning and building in the world of web development, especially using Vue.js, JavaScript, and TypeScript. I enjoy working on both front-end and back-end development, and I'm currently diving into React.js and Nest.js to expand my skills. Feel free to check out my repositories and see what I've been working on!
+Hi! I'm Baitong, I am a senior student at the School of Information Technology (SIT), KMUTT. I enjoy building web applications and learning new technologies. I like turning ideas into real products that people can use. I also enjoy working with others, helping my team stay organized, and making sure we move forward together.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [Myportfilio](http://drive.google.com/file/d/1kkiehmeQgPfix5Y1tXaAC2jcnagyqmIw/view?usp=sharing)
