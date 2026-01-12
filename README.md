@@ -7,7 +7,7 @@ Student
 Hi! I'm Baitong, I am a senior student at the School of Information Technology (SIT), KMUTT. I enjoy building web applications and learning new technologies. I like turning ideas into real products that people can use. I also enjoy working with others, helping my team stay organized, and making sure we move forward together.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [Myportfilio](http://drive.google.com/file/d/1kkiehmeQgPfix5Y1tXaAC2jcnagyqmIw/view?usp=sharing)
+* 🖥️  See my portfolio at [Myportfilio](https://drive.google.com/file/d/17_QKjcrYTEt7ZHDgUIRemmDqcHFt4j3W/view?usp=sharing)
 * ✉️  You can contact me at [baitong.saek@gmail.com](mailto:baitong.saek@gmail.com)
 
 ### Skills
